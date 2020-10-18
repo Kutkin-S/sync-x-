@@ -20,7 +20,6 @@ constexpr double Pi = acos(-1.);
 #endif
 
 constexpr int WIDTH = 800, HEIGHT = 600;
-double x = (Pi*2/360.0)*Pi;
 
 int main(int, char**)
 {
